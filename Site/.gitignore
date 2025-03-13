@@ -1,0 +1,32 @@
+
+node_modules/
+
+build/
+dist/
+
+.vs/
+.vscode/
+.idea/
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+Thumbs.db
+ehthumbs.db
+
+bin/
+obj/
+
+# Log files
+*.log
+
+*.mdf
+*.ldf
+*.sqlite
+
+.env
+
+*.bak
+*.tmp
