@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\scoala\\Inteligenta Artificiala\\Proiect1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D18AA8E-CFD7-5170-5681-C46B548B3E25}|Assembly-CSharp.csproj|d:\\scoala\\inteligenta artificiala\\proiect1\\assets\\script\\functii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D18AA8E-CFD7-5170-5681-C46B548B3E25}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\functii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D18AA8E-CFD7-5170-5681-C46B548B3E25}|Assembly-CSharp.csproj|D:\\scoala\\Inteligenta Artificiala\\Proiect1\\assets\\script\\valoriagteta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D18AA8E-CFD7-5170-5681-C46B548B3E25}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\valoriagteta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D18AA8E-CFD7-5170-5681-C46B548B3E25}|Assembly-CSharp.csproj|D:\\scoala\\Inteligenta Artificiala\\Proiect1\\assets\\script\\neuron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D18AA8E-CFD7-5170-5681-C46B548B3E25}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\neuron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D18AA8E-CFD7-5170-5681-C46B548B3E25}|Assembly-CSharp.csproj|D:\\scoala\\Inteligenta Artificiala\\Proiect1\\assets\\script\\valorixsiw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D18AA8E-CFD7-5170-5681-C46B548B3E25}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\valorixsiw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Functii.cs",
+              "DocumentMoniker": "D:\\scoala\\Inteligenta Artificiala\\Proiect1\\Assets\\Script\\Functii.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Functii.cs",
+              "ToolTip": "D:\\scoala\\Inteligenta Artificiala\\Proiect1\\Assets\\Script\\Functii.cs",
+              "RelativeToolTip": "Assets\\Script\\Functii.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAowLYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:10:12.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValoriAGTeta.cs",
+              "DocumentMoniker": "D:\\scoala\\Inteligenta Artificiala\\Proiect1\\Assets\\Script\\ValoriAGTeta.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ValoriAGTeta.cs",
+              "ToolTip": "D:\\scoala\\Inteligenta Artificiala\\Proiect1\\Assets\\Script\\ValoriAGTeta.cs",
+              "RelativeToolTip": "Assets\\Script\\ValoriAGTeta.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:43:50.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValoriXsiW.cs",
+              "DocumentMoniker": "D:\\scoala\\Inteligenta Artificiala\\Proiect1\\Assets\\Script\\ValoriXsiW.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ValoriXsiW.cs",
+              "ToolTip": "D:\\scoala\\Inteligenta Artificiala\\Proiect1\\Assets\\Script\\ValoriXsiW.cs",
+              "RelativeToolTip": "Assets\\Script\\ValoriXsiW.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:39:44.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Neuron.cs",
+              "DocumentMoniker": "D:\\scoala\\Inteligenta Artificiala\\Proiect1\\Assets\\Script\\Neuron.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Neuron.cs",
+              "ToolTip": "D:\\scoala\\Inteligenta Artificiala\\Proiect1\\Assets\\Script\\Neuron.cs",
+              "RelativeToolTip": "Assets\\Script\\Neuron.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T05:46:59.607Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+.logo{
+	text-align: center;
+    margin: 20px 0;
+}
+.logo img {
+    max-width: 100px;
+}
+
+body {
+    background: url('fundal-home.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+}
+
+.intro {
+    display: flex;
+    flex-direction: column;  
+    justify-content: center; 
+    align-items: center;     
+    text-align: center;      
+    padding: 20px;
+    box-sizing: border-box; 
+}
+.about-preview {
+    display: flex;
+    flex-direction: column;  
+    justify-content: center; 
+    align-items: center;     
+    text-align: center;      
+    padding: 20px;
+    box-sizing: border-box; 
+}
