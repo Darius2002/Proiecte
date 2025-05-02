@@ -1,0 +1,44 @@
+VAR b = 5
+VAR a = (10 + b) * 2
+PRINT(a)
+
+VAR f = 10.3 - 5
+
+PRINT(f)
+
+IF a == 30 THEN VAR c = a - 10 ELSE VAR c = a - 5
+
+PRINT(c)
+
+IF c <= 25 THEN VAR c = c / 2
+
+PRINT(c)
+
+IF c == 10 AND a == 20 THEN PRINT(c) ELSE PRINT(a)
+
+IF c == 10 OR a == 20 THEN PRINT(c) ELSE PRINT(a)
+
+VAR a = FALSE
+
+IF a == TRUE THEN VAR a = FALSE ELSE VAR a = TRUE
+
+PRINT(a)
+
+IF a == c THEN PRINT (c)
+
+VAR x = 0
+
+
+FOR i = 0 TO 5 THEN
+    VAR x = x + i
+END
+
+PRINT(x)
+
+VAR i = 0
+
+WHILE i < 50 THEN VAR i = i + 1 
+
+PRINT(i)
+
+#Comentari
